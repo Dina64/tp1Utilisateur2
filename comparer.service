@@ -1,0 +1,5 @@
+[Unit]
+Description=Create User Automatically Service
+
+[Service]
+ExecStart=/home/dina/src/gererUtilisateur/user.sh
